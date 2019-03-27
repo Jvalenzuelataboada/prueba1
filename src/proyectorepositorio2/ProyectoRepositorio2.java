@@ -19,6 +19,6 @@ public class ProyectoRepositorio2 {
     public static void main(String[] args) {
        JOptionPane.showConfirmDialog(null,"BIENVENIDO AL SISTEMA","Acceso Correcto",2);
        //Esto es una prueba
+       //Esto es una seguna prueba
     }
-    
 }
